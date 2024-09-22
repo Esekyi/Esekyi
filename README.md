@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Esekyi
+- 👋 Hi, I’m Emmanuel Sekyi
 - 👀 I’m interested in creating web apps specifically python web apps.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python, cybersecurity student.
 
 <!---
 Esekyi/Esekyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
